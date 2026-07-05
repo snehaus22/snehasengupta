@@ -27,13 +27,13 @@ profile_image: /assets/images/Headshot1.JPG
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing # or /assets/resume/resume.pdf
+resume: /assets/resume/Sengupta_SnehaWebResume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: sneha-sengupta-bme    # https://www.linkedin.com/in/sneha-sengupta-bme
+  linkedin: sneha-sengupta-bme    # https://www.linkedin.com/in/snehabme
   #github: leea12    # https://github.com/{your url slug} 
   #stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   #medium:            # https://medium.com/@{your url slug} 
@@ -53,8 +53,7 @@ skills:
     - Solidworks
     - KiCad
     - COMSOL Multiphysics
-    - Microsoft Office 360
-  - category: ProgrammingLanguages
+  - category: Programming Languages
     tools:
     - Python
     - C++
