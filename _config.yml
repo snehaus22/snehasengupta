@@ -27,7 +27,7 @@ profile_image: /assets/images/Headshot1.JPG
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume: /assets/resume/Sengupta_Sneha_WebResume.pdf
+resume-url: https://drive.google.com/file/d/1Q-Zh5Mr9oR0Kt6I0bLdI_HD24G-JRO5G/view
 
 
 # Set up external links - this will show up as small icons next to your name.
