@@ -13,6 +13,10 @@ main-image: /PEG.png
 ## Design Motivation
 Cardiovascular disease (CVD) remains the leading cause of mortality worldwide. Its high prevalence is associated with aging populations, diabetes, hypertension, and lifestyle-related factors such as obesity and smoking.  Surgical procedures including artery bypass grafting often require small-diameter vascular grafts (< 6 mm in diameter). However current grafts have low success due to early thrombosis, low patency, and immune reactions. The next generation of vascular grafts must mimic the native endothelial function and hemostasis to prevent thrombosis while supporting host tissue remodeling.
 
+
+Through a comprehensive literature review, I identified gaps in the current market landscape for our innovation to find a niche within. Through analysis of synthetic, biologic, tissue engineered and decellularized grafts, we were able to identify strengths and weaknesses in the current market, and identify mechanisms for our innovation. In addition, through my fluid dynamics background, I was able to aid in the creation of the functional design constraints for optimizing the physical limitations and considerations of the vessel design.
+
+
 ## Innovation
 Our device modification integrates immobilized thrombomodulin to a PEGylated surface layer, creating a coating that is actively antithrombotic, antifouling, and promotes endothelialization.
 
