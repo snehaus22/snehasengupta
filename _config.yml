@@ -47,15 +47,10 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: Softwares
-    tools:
-    - Onshape
-    - Solidworks
-    - KiCad
-    - COMSOL Multiphysics
-  - category: Programming Languages
+  - category: Programming & Computational Modeling
     tools:
     - Python
+    - COMSOL Multiphysics
     - C++
     - MATLAB-SimuLink
   - category: Wet Lab Skills
@@ -70,7 +65,9 @@ skills:
     - Gibson Assembly
   - category: Prototyping
     tools:
-    - PCB Design
+    - Onshape
+    - Solidworks
+    - KiCad
     - Mechanical Drawings
     - Laser Cutting
     - 3D Printing
