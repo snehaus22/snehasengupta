@@ -18,7 +18,7 @@ This system was validated through a combination of in vitro experiments and COMS
 ## COMSOL Digital Twin
 To compare glucose transport and enzymatic reaction kinetics between the hydrogels with and without MNs, a three-dimensional computational model was developed in COMSOL Multiphysics. The GOx-catalyzed oxidation of glucose to gluconolactone and hydrogen peroxide was modeled sequentially and followed by spontaneous hydrolysis of gluconolactone to gluconic acid.
 
-{% include image-gallery.html images="hydrogelcomsol.png" height="400" %} 
+{% include image-gallery.html images="flathydrogel.png" height="400" %} 
 
 A simplified flat interface geometry was created to model the non-MN condition. Glucose diffused progressively into the bulk hydrogel, establishing a concentration gradient with highest concentrations near the entry interface. Enzymatic reaction rates were greatest near this surface, producing gluconolactone that accumulated and diffused inward. Hydrolysis to gluconic acid reactions created a heterogenous pH distribution with the greatest acid presence near the glucose entry point.
 ### Glucose diffusion gradient across hydrogel base and microneedles using Fick's 2nd Law
