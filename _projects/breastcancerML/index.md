@@ -21,6 +21,6 @@ A number of machine learning methods were applied, but the ones three were ultim
 ## Results
 Each model was evaluated based on standard classification metrics, including precision, recall, and F1-score, on an unseen test-set. The models demonstrated high-accuracy as shown below in distinguishing between malignant and benign cases, showcasing the potential of ML applications in early stages of cancer detection: 
 
-{% include image-gallery.html images="pcb.png" height="400" %} 
+{% include image-gallery.html images="mltable.png" height="400" %} 
 The neural network model was extensively tuned to achieve optimal performance, highlighting the importance of interactive development in deep learning. 
-{% include image-gallery.html images="pcb.png" height="400" %} 
+{% include image-gallery.html images="mlgraph.png" height="400" %} 
